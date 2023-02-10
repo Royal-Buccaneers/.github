@@ -7,6 +7,7 @@ Jsme vývojářská skupina tvořící webové, mobilní a desktopové aplikace.
 
 ## Naše práce
 - [SŠTE Maturitní četba](https://sstebrno.cz/literatura) - webová aplikace (Flutter)
+- [Kodelog](https://github.com/Royal-Buccaneers/kodelog) - webová aplikace; zápisník pro programátory v rámci Tour de App (Flutter)
 
 ## Kontakt
 Napište nám na jeden z našich e-mailů!
